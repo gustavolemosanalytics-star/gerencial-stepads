@@ -4,14 +4,14 @@ const LOGO_URL = "/logo.png";
 
 const dashboards = [
   { name: "Alpha", owner: "Felipe", status: "ativo", url: "https://dash-alpha-fitness.vercel.app/" },
-  { name: "Arvo Festival", owner: "Felipe", status: "execução", url: "https://arvo-festival.vercel.app/" },
+  { name: "Arvo Festival", owner: "Felipe", status: "ativo", url: "https://arvo-festival.vercel.app/" },
   { name: "BW2", owner: "Felipe", status: "ativo", url: "https://bw2-step.vercel.app/dashboard" },
   { name: "NW", owner: "Felipe", status: "execução", url: null },
   { name: "Cam SSA", owner: "Felipe", status: "stand-by", url: null },
-  { name: "Básica e Joshua", owner: "Dilvan", status: "execução", url: "https://basica-joshua-phi.vercel.app/dashboard" },
+  { name: "Básica e Joshua", owner: "Dilvan", status: "ativo", url: "https://basica-joshua-phi.vercel.app/dashboard" },
   { name: "FeedHub", owner: "Dilvan", status: "execução", url: null },
   { name: "Orla Salvador", owner: "Dilvan", status: "execução", url: null },
-  { name: "Viva Gula", owner: "Dilvan", status: "execução", url: "https://viva-gula.vercel.app/dashboard" },
+  { name: "Viva Gula", owner: "Dilvan", status: "ativo", url: "https://viva-gula.vercel.app/dashboard" },
 ];
 
 const statusConfig = {
