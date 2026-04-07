@@ -8,7 +8,7 @@ const dashboards = [
   { name: "BW2", owner: "Felipe", status: "ativo", url: "https://bw2-step.vercel.app/dashboard" },
   { name: "NW", owner: "Felipe", status: "execução", url: null },
   { name: "Cam SSA", owner: "Felipe", status: "stand-by", url: null },
-  { name: "Básica e Joshua", owner: "Dilvan", status: "ativo", url: "https://basica-joshua-phi.vercel.app/dashboard" },
+  { name: "Básica e Joshua", owner: "Dilvan", status: "ativo", url: "https://basica-joshua.vercel.app" },
   { name: "FeedHub", owner: "Dilvan", status: "execução", url: null },
   { name: "Orla Salvador", owner: "Dilvan", status: "ativo", url: "https://orla-pituacu.vercel.app/" },
   { name: "Viva Gula", owner: "Dilvan", status: "ativo", url: "https://viva-gula.vercel.app/dashboard" },
