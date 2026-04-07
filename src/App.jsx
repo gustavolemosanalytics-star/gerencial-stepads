@@ -3,7 +3,7 @@ import { useState } from "react";
 const LOGO_URL = "/logo.png";
 
 const dashboards = [
-  { name: "Alpha", owner: "Felipe", status: "ativo", url: "https://dash-alpha-fitness.vercel.app/" },
+  { name: "Alpha", owner: "Felipe", status: "ativo", url: "https://dash-alpha-fitness-gamma.vercel.app/" },
   { name: "Arvo Festival", owner: "Felipe", status: "ativo", url: "https://arvo-festival.vercel.app/" },
   { name: "BW2", owner: "Felipe", status: "ativo", url: "https://bw2-step.vercel.app/dashboard" },
   { name: "NW", owner: "Felipe", status: "execução", url: null },
